@@ -16,15 +16,14 @@ Unet is a well known model for Bio Medical Image Segmentation. It has encoding p
 - Epoch : 100 ( early stop if there is no lr update)
 
 #### Results
-This result would not be optimal since small data were and training stopped at epoch 8.
-
-
+This result would not be optimal due to small data.
+![result](https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png)
+![loss](https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png)
 
 #### Prerequisite
 - tensorflow-gpu 1.15.0
 - keras 2.3.1
 - nibabel
-
 
 #### Reference
 [1] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
