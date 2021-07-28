@@ -17,7 +17,7 @@ Unet is a well known model for Bio Medical Image Segmentation. It has encoding p
 
 ### Results
 <img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png" align="center">
-<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="300">
+<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="400">
 (This result would not be optimal since small dataset was used for breif check.)
 
 ### Prerequisite
