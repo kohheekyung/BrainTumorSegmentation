@@ -16,9 +16,9 @@ Unet is a well known model for Bio Medical Image Segmentation. It has encoding p
 - Epoch : 100 ( early stop if there is no lr update)
 
 ### Results
+<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png" align="center">
+<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="300">
 (This result would not be optimal since small dataset was used for breif check.)
-<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png">
-<img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="500">
 
 ### Prerequisite
 - tensorflow-gpu 1.15.0
