@@ -16,7 +16,7 @@ Unet is a well known model for Bio Medical Image Segmentation. It has encoding p
 - Epoch : 100 ( early stop if there is no lr update)
 
 ### Results
-This result would not be optimal due to small data.
+(This result would not be optimal since small dataset was used for breif check.)
 <img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png">
 <img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="500">
 
