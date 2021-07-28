@@ -16,10 +16,9 @@ Unet is a well known model for Bio Medical Image Segmentation. It has encoding p
 - Epoch : 100 ( early stop if there is no lr update)
 
 ### Results
-- Label / Predicted 1  - necrotic and non - enhancing tumor
-- Label / Predicted 2 - edema
-- Label / Predicted 4 - enhancing tumor
-
+- Label / Predicted 1  - Necrotic and Non-enhancing tumor
+- Label / Predicted 2 - Edema
+- Label / Predicted 4 - Enhancing tumor
 <img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/result.png" align="center">
 <img src="https://github.com/kohheekyung/BrainTumorSegmentation/blob/main/resource/loss.png" width="400">
 (This result would not be optimal since small dataset was used for breif check.)
